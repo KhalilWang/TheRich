@@ -4,8 +4,8 @@
 An old monopoly game AKA The Rich
 based on a module of python called pygame
 
-* sound
-* picture of my own univercity
+* with sound
+* pictures of my own university
 
 ###### You should have python343 && pygame in your machine to play this game!
 Have fun !
